@@ -32,7 +32,7 @@ A minimal Twitter-style app built with Django. Users can create an account, post
 
    ```bash
    python3 -m venv .venv
-   source .venv/Scripts/activate
+   source .venv/bin/activate
    ```
 4. Install the required dependencies:
 
